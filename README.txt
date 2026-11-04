@@ -5,5 +5,5 @@ Fastest: go to app.netlify.com/drop and drag this whole "pwa" folder onto the pa
 Also works with GitHub Pages, Vercel, Cloudflare Pages.
 
 On iPhone (Safari): open the link > Share > Add to Home Screen.
-On Android (Chrome): open the link > menu > Install app. 
+On Android (Chrome): open the link > menu > Install app.
 It opens full screen with no browser bars and works offline after the first load.
